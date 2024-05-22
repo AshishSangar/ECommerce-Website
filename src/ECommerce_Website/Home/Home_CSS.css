@@ -1,0 +1,12 @@
+.card_display{
+width: 100%;;
+flex-wrap: wrap;
+display: flex;
+justify-content: space-around;
+gap: 20px;
+}
+.image_style{
+          object-fit: contain;
+          width: max-content;
+          height: max-content;
+}
